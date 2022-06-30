@@ -19,7 +19,7 @@ function Footer() {
           </div>
           <div class='footer-link-items'>
             <h2>Contact Us</h2>
-            <p> +2349087036499
+            <p> +2349087036498
             </p>
             <p>info@labwox.com</p>
             <p>2B Awori Close, Akora Villas off Adeniyi Jones, Ikeja, Lagos.</p>
