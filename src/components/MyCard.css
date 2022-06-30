@@ -1,0 +1,58 @@
+.MyCard{
+    background-color: #03010c;
+    background: #03010c;
+    margin: 0pxx;
+    padding: 10px;
+    align-items: center;
+}
+.Topic{
+    color: rgb(252, 7, 7);
+    font-size: 40px;
+    text-decoration: double;
+    text-align: center;
+    align-items: center;
+}
+.Content{
+    color: rgb(248, 245, 245);
+    font-size: 20px;
+    text-decoration: double;
+    text-align: center;
+    align-items: center;
+}
+#BB{
+    color: rgb(8, 8, 8);
+    font-size: 15px;
+    
+    position: relative;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+
+}
+button:hover{
+    border-radius: 3px;
+    border-bottom: 4px solid red;
+}
+.button-div{
+    text-align: center;
+}
+#icon{
+    
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+}
+.icon-div{
+    text-align: center;
+    
+}
+.aworan{
+    padding-top: 50px;
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 50%;
+}
+
