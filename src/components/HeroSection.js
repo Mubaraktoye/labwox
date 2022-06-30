@@ -1,9 +1,7 @@
 import React from 'react';
-import { useHref } from 'react-router-dom';
 import '../App.css';
 import { Button } from './Button';
 import './HeroSection.css';
-import Search from './Search';
 
 function HeroSection() {
   
